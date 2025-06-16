@@ -35,6 +35,6 @@ This repository contains module-wise, high-yield questions and answers to help y
 
 ---
 
-> 💡 You only need these questions and your common sense to pass the DP-100 renewal confidently.
+> 💡 I hope these help to pass the DP-100 renewal confidently.
 
 Happy learning & best of luck! 🥳
