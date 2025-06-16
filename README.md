@@ -35,6 +35,10 @@ This repository contains module-wise, high-yield questions and answers to help y
 
 ---
 
+## 😎 Bonus: Full DP-100 Renewal Exam Q&A (2025)
+
+📝 [All 25 Questions with Answers & Explanations](DP100_Renewal_25_Questions.md)
+
 > 💡 I hope these help to pass the DP-100 renewal confidently.
 
 Happy learning & best of luck! 🥳
