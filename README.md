@@ -1,7 +1,15 @@
 # DP-100 Renewal Exam – Quick Reference Guide
 
-This repository contains module-wise, high-yield questions and answers to help you pass the **DP-100: Designing and Implementing a Data Science Solution on Azure** renewal exam in (hopefully 🤓) one go.
+This repository contains module-wise, high-yield questions and answers to help one pass the **DP-100: Designing and Implementing a Data Science Solution on Azure** renewal exam in (hopefully 🤓) one go.
 
+---
+
+### How to Use
+
+- Quickly revise each module in 5–10 minutes
+- Covers the most frequently asked and repeated concepts
+
+  
 ---
 
 ## 📘 Modules (question-answer format) for easy reference
@@ -11,6 +19,9 @@ This repository contains module-wise, high-yield questions and answers to help y
 - [Module 3: Responsible AI](Module3_Responsible_AI.md)
 - [Module 4: CLI v2, YAML & MLOps](Module4_CLI_YAML_MLOps.md)
 
+
+
+  
 ---
 
 ## 📘 Official Microsoft Learn Links
@@ -26,12 +37,6 @@ This repository contains module-wise, high-yield questions and answers to help y
 9. [Choose and deploy models from the model catalog in Azure AI Studio](https://learn.microsoft.com/en-us/training/modules/explore-models-azure-ai-studio/?ns-enrollment-type=Collection)
 10. [Evaluate generative AI performance in Azure AI Studio](https://learn.microsoft.com/en-us/training/modules/evaluate-models-azure-ai-studio/?ns-enrollment-type=Collection)
 
----
-
-### How to Use
-
-- Quickly revise each module in 5–10 minutes
-- Covers the most frequently asked and repeated concepts
 
 ---
 
